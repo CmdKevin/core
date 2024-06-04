@@ -1,0 +1,1 @@
+update account set name='Rangga' where account_id='AI'

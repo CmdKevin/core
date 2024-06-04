@@ -1,0 +1,1 @@
+update "transaction" set amount='100000' where amount='2500000'
